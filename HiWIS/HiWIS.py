@@ -1,6 +1,4 @@
-from scipy.stats.stats import hmean
-import statistics
-__author__ = ""
+__author__ = "LDIOP"
 
 import time
 import sys
